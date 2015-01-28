@@ -1,0 +1,23 @@
+body {
+	width: 960 px;
+	margin: 0 auto;
+	font-family: Arial, Verdana, sans-serif;}
+#content {
+	overflow: auto;
+	height: 100%;}
+#nav, #footer {
+	background-color: #efefef;
+	padding: 10px;
+	margin: 10px;}
+.column1, .column2, .column3 {
+	background-color: #efefef;
+	width: 300px;
+	float: left;
+	margin: 10px;}
+li {
+	display: inline;
+	padding: 5px;}
+h1 {
+	color: #ee3e80;}
+p {
+	color: #665544;}
